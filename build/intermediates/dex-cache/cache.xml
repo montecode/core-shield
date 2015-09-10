@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/stevyhacker/AndroidStudioProjects/CoreGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/home/stevyhacker/AndroidStudioProjects/CoreGame/app/build/intermediates/pre-dexed/debug/classes-a82ec02193a690c3024ff2dbe61fdd031e6123c4.jar" />
+    </item>
+    <item
+        jar="/home/stevyhacker/AndroidStudioProjects/CoreGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/home/stevyhacker/AndroidStudioProjects/CoreGame/app/build/intermediates/pre-dexed/debug/classes-44871dda7d3062cd1b544616dd6290fe8863e25e.jar" />
+    </item>
+    <item
+        jar="/home/stevyhacker/AndroidStudioProjects/CoreGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/home/stevyhacker/AndroidStudioProjects/CoreGame/app/build/intermediates/pre-dexed/debug/classes-b22efda63ce0f939ec93196ca887f84eb98283d9.jar" />
+    </item>
+    <item
+        jar="/home/stevyhacker/AndroidStudioProjects/CoreGame/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/stevyhacker/AndroidStudioProjects/CoreGame/app/build/intermediates/pre-dexed/release/classes-8ffcc2ec34ad23a2949d4fe5e51625112e57ca95.jar" />
+    </item>
+    <item
+        jar="/home/stevyhacker/AndroidStudioProjects/CoreGame/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/stevyhacker/AndroidStudioProjects/CoreGame/app/build/intermediates/pre-dexed/release/internal_impl-22.2.0-35484a19120ebe5afd19baf37d986c598c646736.jar" />
+    </item>
+    <item
+        jar="/home/stevyhacker/AndroidStudioProjects/CoreGame/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/home/stevyhacker/AndroidStudioProjects/CoreGame/app/build/intermediates/pre-dexed/debug/classes-3c1d8f652816cf284c06eceaf182a9d85871eba8.jar" />
+    </item>
+    <item
+        jar="/home/stevyhacker/Development/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/stevyhacker/AndroidStudioProjects/CoreGame/app/build/intermediates/pre-dexed/release/support-annotations-22.2.0-0943e5b6395cb6057b1e8f72e47737892e601532.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/stevyhacker/AndroidStudioProjects/CoreGame/app/src/main/res/values-gr/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Core</string>
+    <string name="game_over">Τέλος παιχνιδιού!\nΑγγίξτε την\nοθόνη για\nνα ξαναξεκινήσετε.</string>
+    <string name="paused">Παύση παιχνιδιού.\nΑγγίξτε την οθόνη\nγια να συνεχίσετε.</string>
+    <string name="ready">Έτοιμοι;\nΑγγίξτε την\nοθόνη!</string>
+    <string name="your_time">Ο χρόνος σας:</string>
+</resources>
