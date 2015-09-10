@@ -1,4 +1,5 @@
-Core Shield - simple android game
+Core Shield - android game
+This is a fork of https://github.com/o2genum/CoreGame with some gameplay improvements
 
 ===================================
 Play store link: https://play.google.com/store/apps/details?id=me.montecode.coregame
@@ -9,7 +10,6 @@ Screenshots:
 <img src="https://raw.github.com/o2genum/CoreGame/master/etc/screenshot-for-readme1.png" width="32.5%"> &nbsp;
 <img src="https://raw.github.com/o2genum/CoreGame/master/etc/screenshot-for-readme2.png" width="32.5%"> &nbsp;
 
-This is a fork with some gameplay improvements of https://github.com/o2genum/CoreGame
 
 The game:
 ---------
